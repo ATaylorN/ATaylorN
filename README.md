@@ -46,9 +46,9 @@ current status: in-process
 At one point during the program, I struggled a little bit with database designs in PostgreSQL so I designed this project to challenge myself. I have currently built out all of the tables that I wanted and have started the process of writing my SQL queries in IntelliJ. The end goal for this project is to have an application where I, as a user, can have a library of all my books. I want to have the ability to view them based on whether or not they've been read yet and I want to be able to browse them based on things like genre and series. I'd also like to add a wishlist component to it so that I can keep track of books that I'm interested in purchasing and have it keep a running total of how much these books cost. 
 
 ### FlashCardsApp
-current status: in-process
+current status: completed
 
-This project was actually heavily inspired by a fellow classmate who created something similar for his .NET studying. My goal is to create something similar to assist myself and other classmates with studying Java. I have currently built out the database and need to get started on writing the SQL queries. Ultimately, I'd like to have it so that it pulls a random question from the database for the user and shows the answer to that question once the user clicks continue. The user will then check a box saying whether or not they got the answer right. I'd like to have it so that the app continues to cycle through the questions that the user has said they didn't get right. 
+This project was actually heavily inspired by a fellow classmate who created something similar for his .NET studying and I wanted to do something similar for Java. Using Java, Spring Boot, and PostgreSQL for the backend and Vue.js for the frontend, I created an app where the user can choose to have random flashcards to cycle through or chose "Study Mode". "Study Mode" allows a user to cycle through questions and mark whether or not they got the question right. When the user opts to exit, the user is shown a list of all of the questions that they got incorrect so that they know what they need to continue studying. There's also an option for the user to really put their knowledge to the test with a quiz.
 
 ### NumberCountingGame
 current status: completed
