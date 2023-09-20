@@ -10,6 +10,7 @@ I'm a software developer, veteran, and artist with over 11 years of customer ser
   - [MealPlannerApp](#mealplannerapp)
     - [Screenshots](#screenshots) 
 - [SideProjects](#sideprojects)
+  - [PortfolioSite](#portfoliosite)
   - [LibraryApp](#libraryapp)
   - [FlashCardsApp](#flashcardsapp)
   - [NumberCountingGame](#numbercountinggame) 
@@ -38,6 +39,13 @@ In this project, I learned a lot about team dynamics and the importance of commu
 <img src="/Calendar.png" width="800">
 
 ## SideProjects
+
+### PortfolioSite
+current status: in-process
+
+My goal is to create a portfolio website that highlights not only the all of the coding projects that I've worked on, but the marketing that I've worked on and the numerous portraits that I've created. I really want to highlight that I'm a software developer that also has an eye for design. 
+
+<img src="/portfolio.png" width="600">
 
 ### LibraryApp
 current status: in-process
