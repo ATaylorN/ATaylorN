@@ -5,22 +5,22 @@ I'm a software developer, veteran, and artist with over 11 years of customer ser
 ## Table of contents
 
 - [TechElevator](#techelevator)
-  - [CashRegisterApp](#cashregisterapp)
-  - [VenmoStyleApp](#venmostyleapp)
-  - [MealPlannerApp](#mealplannerapp)
+  - [CashRegisterApp](#cashregisterapp) 💸
+  - [VenmoStyleApp](#venmostyleapp) 💰
+  - [MealPlannerApp](#mealplannerapp) 🍞
 - [SideProjects](#sideprojects)
-  - [LibraryApp](#libraryapp)
-  - [PortfolioSite](#portfoliosite)
-  - [FlashCardsApp](#flashcardsapp)
-  - [NumberCountingGame](#numbercountinggame) 
+  - [LibraryApp](#libraryapp) 📚
+  - [PortfolioSite](#portfoliosite) 🎨
+  - [FlashCardsApp](#flashcardsapp) 🗃️
+  - [NumberCountingGame](#numbercountinggame) ➕
 
-## TechElevator 💻
+## TechElevator
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
 Tech Elevator is a 14-week full-stack coding bootcamp learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application. While there I learned about about a ton including Spring Boot, Java, PostgreSQL, HTML, CSS, JavaScript, Vue.js, Responsive Design, IntelliJ, Git, Unit Testing (JUnit), E/R diagrams, and Integration Testing.
 
-### CashRegisterApp 💸
+### CashRegisterApp
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
@@ -28,7 +28,7 @@ About a third of the way through the program, we were given the task of working 
 
 In this project, I learned a lot about File I/O and the importance of encapsulation. One of the roadblocks that we ran into with this project was that we didn't create a shoppping cart class, realized halfway through that we should, and ended up in a weird half and half scenario. If I were to do this project again, I would have spent time really planning out what all I would need for this project (all of the different classes, for example).
 
-### VenmoStyleApp 💰
+### VenmoStyleApp
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
@@ -36,7 +36,7 @@ Two thirds of the way through the program, we were given the task of working wit
 
 In this project, I learned a lot about authorization, Postman, and URL endpoints. It took a while to fully understand the View Model Controller Design and how it all related to one another.  
 
-### MealPlannerApp 🍞
+### MealPlannerApp
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
@@ -49,13 +49,13 @@ In this project, I learned a lot about team dynamics and the importance of commu
 
 ## SideProjects
 
-### LibraryApp 📚
+### LibraryApp 
 
 [![Generic badge](https://img.shields.io/badge/STATUS-IN_PROGRESS-red.svg)](https://shields.io/)
 
 At one point during the program, I struggled a little bit with database designs in PostgreSQL so I designed this project to challenge myself. I have currently built out all of the tables that I wanted and have started the process of writing my SQL queries in IntelliJ. The end goal for this project is to have an application where I, as a user, can have a library of all my books. I want to have the ability to view them based on whether or not they've been read yet and I want to be able to browse them based on things like genre and series. I'd also like to add a wishlist component to it so that I can keep track of books that I'm interested in purchasing and have it keep a running total of how much these books cost.
 
-### PortfolioSite 🎨
+### PortfolioSite 
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
@@ -63,7 +63,7 @@ My goal is to create a portfolio website that highlights not only the all of the
 
 <img src="/portfolio.png" width="600"> 
 
-### FlashCardsApp 🗃️
+### FlashCardsApp 
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
@@ -72,7 +72,7 @@ This project was actually heavily inspired by a fellow classmate who created som
 <img src="/landing-page.png" width="400" height="400"> <img src="/questions.png" width="400" height="400">
 <img src="/further-study.png" width="400" height="400"> <img src="/quiz-view.png" width="400" height="400">
 
-### NumberCountingGame ➕
+### NumberCountingGame 
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
