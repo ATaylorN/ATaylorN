@@ -5,31 +5,36 @@ I'm a software developer, veteran, and artist with over 11 years of customer ser
 # Table of contents
 
 - [PersonalProjects](#personalprojects)
+- [Data Analysis](#dataanalysis)
 - [TechElevator](#techelevator)
-
 
 # PersonalProjects
 
-### ⚡Click Project Titles to View Code!⚡
-
-
-## ⚡[LibraryApp](https://github.com/ATaylorN/library_side_project)⚡
+## [LibraryApp](https://github.com/ATaylorN/library_side_project)
 
 [![Generic badge](https://img.shields.io/badge/STATUS-IN_PROGRESS-red.svg)](https://shields.io/)
 
 <img src="/library.png" width="300"> 
 
-## ⚡[PortfolioSite](https://github.com/ATaylorN/portfolio/tree/main/portfolio-site)⚡
+## [PortfolioSite](https://github.com/ATaylorN/portfolio/tree/main/portfolio-site)
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)  - [Amanda Taylor: Portfolio](https://amandataylor-portfolio.netlify.app "My finished site")
 
 <img src="/aboutme.jpg" width="400"> 
 
-## ⚡[FlashCardsApp](https://github.com/ATaylorN/flashcards)⚡ 
+## [FlashCardsApp](https://github.com/ATaylorN/flashcards) 
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
 <img src="/landing-page.png" width="250" height="250"> <img src="/questions.png" width="250" height="250">
+
+# DataAnalysis
+
+## [Data Cleaning & Exploration with SQL](https://github.com/ATaylorN/SQL-Data-Exploration)
+
+[![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
+
+Exercises where I went through large data sets, formatted the data so that it was consistent and easier to manipulate, and ran multiple SQL queries to analyze the data.
 
 # TechElevator
 
@@ -53,7 +58,7 @@ Two thirds of the way through the program, we were given the task of working wit
 
 In this project, I learned a lot about authorization, Postman, and URL endpoints. It took a while to fully understand the View Model Controller Design and how it all related to one another.  
 
-## ⚡[MealPlannerApp](https://github.com/ATaylorN/capstone3_mealplanner)⚡
+## [MealPlannerApp](https://github.com/ATaylorN/capstone3_mealplanner)
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
