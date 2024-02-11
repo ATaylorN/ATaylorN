@@ -17,19 +17,19 @@ I'm a software developer, veteran, and artist with over 11 years of customer ser
 
 [![Generic badge](https://img.shields.io/badge/STATUS-IN_PROGRESS-red.svg)](https://shields.io/)
 
-<img src="/library.png" width="400"> 
+<img src="/library.png" width="300"> 
 
 ## ⚡[PortfolioSite](https://github.com/ATaylorN/portfolio/tree/main/portfolio-site)⚡
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)  - [Amanda Taylor: Portfolio](https://amandataylor-portfolio.netlify.app "My finished site")
 
-<img src="/aboutme.jpg" width="800"> 
+<img src="/aboutme.jpg" width="400"> 
 
 ## ⚡[FlashCardsApp](https://github.com/ATaylorN/flashcards)⚡ 
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
-<img src="/landing-page.png" width="400" height="400"> <img src="/questions.png" width="400" height="400">
+<img src="/landing-page.png" width="250" height="250"> <img src="/questions.png" width="250" height="250">
 
 # TechElevator
 
@@ -57,7 +57,7 @@ In this project, I learned a lot about authorization, Postman, and URL endpoints
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
-<img src="/LandingPage.png" width="800">
+<img src="/LandingPage.png" width="400">
 
 
 <!--
