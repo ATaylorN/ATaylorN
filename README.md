@@ -47,7 +47,7 @@ Exercises where I went through large data sets, formatted the data so that it wa
 
 A portfolio website to highlight my coding projects, marketing experience, and artistic abilities
 
-## 🌟[QR Code](Front-EndPractice)
+## 🌟[QR Code](https://github.com/ATaylorN/qrcode-frontend-practice/tree/main/qr-code-component-main)
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
