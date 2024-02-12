@@ -43,7 +43,7 @@ Exercises where I went through large data sets, formatted the data so that it wa
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)  - [Amanda Taylor: Portfolio](https://amandataylor-portfolio.netlify.app "My finished site")
 
-<img src="/aboutme.jpg" width="400"> 
+<img src="/portfolio.jpg" width="400"> <img src="/portfolio2.jpg" width="400">
 
 A portfolio website to highlight my coding projects, marketing experience, and artistic abilities
 
