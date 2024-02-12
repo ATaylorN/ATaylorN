@@ -5,64 +5,80 @@ I'm a software developer, veteran, and artist with over 11 years of customer ser
 # Table of contents
 
 - [PersonalProjects](#personalprojects)
-- [Data Analysis](#dataanalysis)
+- [DataAnalysis](#dataanalysis)
+- [Front-EndProjects](#front-endprojects)
 - [TechElevator](#techelevator)
+
 
 # PersonalProjects
 
-## [LibraryApp](https://github.com/ATaylorN/library_side_project)
+## 📚[LibraryApp](https://github.com/ATaylorN/library_side_project)  
 
 [![Generic badge](https://img.shields.io/badge/STATUS-IN_PROGRESS-red.svg)](https://shields.io/)
 
-<img src="/library.png" width="300"> 
+<img src="/library.png" width="400"> 
+A library app where the user can view their books based on read status, genre, & series. Includes a wishlist component so the user can keep track of books they want to purchase with a running total.
 
-## [PortfolioSite](https://github.com/ATaylorN/portfolio/tree/main/portfolio-site)
-
-[![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)  - [Amanda Taylor: Portfolio](https://amandataylor-portfolio.netlify.app "My finished site")
-
-<img src="/aboutme.jpg" width="400"> 
-
-## [FlashCardsApp](https://github.com/ATaylorN/flashcards) 
+## 🗃️[FlashCardsApp](https://github.com/ATaylorN/flashcards) 
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
-<img src="/landing-page.png" width="250" height="250"> <img src="/questions.png" width="250" height="250">
+<img src="/landing-page.png" width="250" height="250"> <img src="/questions.png" width="250" height="250"> <img src="/quiz-view.png" width="250" height="250">
+
+Flashcards app built to help with studying Java. Includes random-mode, study-mode, and a quiz to test the user's knowledge
+
 
 # DataAnalysis
 
-## [Data Cleaning & Exploration with SQL](https://github.com/ATaylorN/SQL-Data-Exploration)
+## 🔍[Data Cleaning & Exploration with SQL](https://github.com/ATaylorN/SQL-Data-Exploration)
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
 Exercises where I went through large data sets, formatted the data so that it was consistent and easier to manipulate, and ran multiple SQL queries to analyze the data.
 
-# TechElevator
+
+# Front-EndProjects
+
+## 🎨[PortfolioSite](https://github.com/ATaylorN/portfolio/tree/main/portfolio-site)
+
+[![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)  - [Amanda Taylor: Portfolio](https://amandataylor-portfolio.netlify.app "My finished site")
+
+<img src="/aboutme.jpg" width="400"> 
+
+A portfolio website to highlight my coding projects, marketing experience, and artistic abilities
+
+## 🌟[QR Code](Front-EndPractice)
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
+
+Exercise where I was given an image of a qr page and tasked with recreating it in code.
+
+
+# TechElevator
 
 Tech Elevator is a 14-week full-stack coding bootcamp learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application. While there I learned about about a ton including Spring Boot, Java, PostgreSQL, HTML, CSS, JavaScript, Vue.js, Responsive Design, IntelliJ, Git, Unit Testing (JUnit), E/R diagrams, and Integration Testing.
 
-## CashRegisterApp
+## 💰CashRegisterApp
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
-About a third of the way through the program, we were given the task of working with a partner to create a cash register application. The two of us utilized Java, IntelliJ, and File I/O to create an app that imports an external file and generates a display of the store’s inventory where the user can select products to add to the cart. It allows users to see the cart’s total price and, upon completing a transaction, prints a receipt showing the items, their quantities, and their prices. The user also has an account balance that they can add money to, and said balance is automatically updated to reflect their new balance after every transaction
+I utilized Java, IntelliJ, and File I/O to create an app that imports an external file and generates a display of the store’s inventory where the user can select products to add to the cart. Allows users to see the cart’s total price and, upon completing a transaction, prints a receipt showing the items, their quantities, and their prices. User also has an account balance that they can add money to, and said balance is automatically updated to reflect their new balance after every transaction
 
-In this project, I learned a lot about File I/O and the importance of encapsulation. One of the roadblocks that we ran into with this project was that we didn't create a shoppping cart class, realized halfway through that we should, and ended up in a weird half and half scenario. If I were to do this project again, I would have spent time really planning out what all I would need for this project (all of the different classes, for example).
-
-## VenmoStyleApp
+## 💸VenmoStyleApp
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
-Two thirds of the way through the program, we were given the task of working with a partner to create an application that's similiar in style to Venmo. We utilized SpringBoot, IntelliJ, Java, and PostgreSQL databases to develop an app that requires users to register an account and log in. Once logged in, users can transfer money to other registered users by selecting a recipient from an automatically updated list and entering the transfer amount. The user can view their balance which is updated after every transfer or they can view past transfer history.
+I utilized SpringBoot, IntelliJ, Java, and PostgreSQL databases to develop an app that requires users to register an account and log in. Once logged in, users can transfer money to other registered users by selecting a recipient from an automatically updated list and entering the transfer amount. The user can view their balance which is updated after every transfer or they can view past transfer history.  
 
-In this project, I learned a lot about authorization, Postman, and URL endpoints. It took a while to fully understand the View Model Controller Design and how it all related to one another.  
-
-## [MealPlannerApp](https://github.com/ATaylorN/capstone3_mealplanner)
+## 🥘[MealPlannerApp](https://github.com/ATaylorN/capstone3_mealplanner)
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
-<img src="/LandingPage.png" width="400">
+<img src="/LandingPage.png" width="400"> <img src="/Calendar.png" width="400">
+
+Meal planner app where a user can view, add, or update recipes. Drag & drop meals onto a calendar to plan a month's worth of meal prep w/the option to download a VCS file that's compatible w/Google calendar. Select a date range & display the ingredients and print or email them
+
+
 
 
 <!--
