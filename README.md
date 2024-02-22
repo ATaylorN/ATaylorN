@@ -47,12 +47,19 @@ Exercises where I went through large data sets, formatted the data so that it wa
 
 A portfolio website to highlight my coding projects, marketing experience, and artistic abilities
 
-## 🌟[QR Code](https://github.com/ATaylorN/qrcode-frontend-practice/tree/main/qr-code-component-main)
+## Frontend Mentor Projects
+
+### 🌟[QR Code](https://github.com/ATaylorN/qrcode-frontend-practice/tree/main/qr-code-component-main)
 
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
 
 Exercise where I was given an image of a qr page and tasked with recreating it in code.
 
+### 🥘[Recipe Page](https://github.com/ATaylorN/FrontendMentor-Recipe-Page)
+
+[![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
+
+Exercise where I was given an image of a recipe page and tasked with recreating it in code. I chose to focus primarily on semantic HTML and CSS. 
 
 # TechElevator
 
