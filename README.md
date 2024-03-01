@@ -1,8 +1,20 @@
-# About Me & What I've Worked On
+# Hello there👋
 
 I'm a software developer, veteran, and artist with over 11 years of customer service and sales experience. As far back as I can remember, I’ve always been the creative type. I was the kid that spent all my time drawing crayon pictures to be hung on the refrigerator. As I got a little older, I participated in and won numerous art competitions and I was always the kid in class with all the sketches in the margins of their notes. Whether it’s drawing or building an app, if I’m creating something, I’m happy. I find the process of figuring out how to bring an idea to reality to be incredibly rewarding and I have a passion for learning.
 
-# Table of contents
+<div align="center">
+
+<a href="https://amandataylor-portfolio.netlify.app/"><img height="28" src="https://img.shields.io/badge/Portfolio%20Site%20-green"/></a>
+<a href="https://www.linkedin.com/in/amanda-taylor1/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+
+![Visitor Count](https://profile-counter.glitch.me/ATaylorN/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATaylorN&hide_progress=true&theme=radical)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ataylorn&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+# Table of Contents
 
 - [PersonalProjects](#personalprojects)
 - [DataAnalysis](#dataanalysis)
