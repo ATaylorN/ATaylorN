@@ -10,7 +10,7 @@ I'm a software developer, veteran, and artist with over 11 years of customer ser
 ![Visitor Count](https://profile-counter.glitch.me/ATaylorN/count.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATaylorN&hide_progress=true&theme=radical)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ataylorn&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ataylorn&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
