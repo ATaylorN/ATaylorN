@@ -4,7 +4,7 @@ I'm a software developer, veteran, and artist with over 11 years of customer ser
 
 <div align="center">
 
-<a href="https://amandataylor-portfolio.netlify.app/"><img height="28" src="https://img.shields.io/badge/Portfolio%20Site%20-green"/></a>
+<a href="https://amandataylor.dev/"><img height="28" src="https://img.shields.io/badge/Portfolio%20Site%20-green"/></a>
 <a href="https://www.linkedin.com/in/amanda-taylor1/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 ![Visitor Count](https://profile-counter.glitch.me/ATaylorN/count.svg)
