@@ -50,11 +50,13 @@ I'm a software developer, veteran, and artist with over 11 years of customer ser
 
 2. 🔍[Data Visualizations in Excel](https://github.com/ATaylorN/Data-Visualizations-in-Excel)
 
-    [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)  
+    [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
+
+   <img src="/DashboardScreenshot.png" width="400">
 
     Cleaned data and used pivot tables to create a dashboard in Excel.
 
-3. 🔍[Projects in Python](https://github.com/ATaylorN/Python-Lessons)
+4. 🔍[Projects in Python](https://github.com/ATaylorN/Python-Lessons)
 
     [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)  
 
@@ -81,6 +83,8 @@ I'm a software developer, veteran, and artist with over 11 years of customer ser
 3. 🥘[Recipe Page](https://github.com/ATaylorN/FrontendMentor-Recipe-Page)
 
   [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETE-GREEN.svg)](https://shields.io/)
+
+  <img src="/mobile.jpg" height="300"> <img src="/desktop.jpg" width="400">
 
   Exercise where I was given an image of a recipe page and tasked with recreating it in code. I chose to focus primarily on semantic HTML and CSS. 
 
